@@ -1,16 +1,109 @@
-# React + Vite
+# 🚀 VibeShare - Social Media App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VibeShare is a modern and responsive social media web application built using **React**, **Vite**, and **Bootstrap**. It enables users to create, interact with, and manage posts in a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+The application uses **Local Storage** to persist data, ensuring that posts, likes, and comments remain available even after refreshing or reopening the browser.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📝 Create Posts
 
-## Expanding the ESLint configuration
+* Share your thoughts by creating new posts.
+* Add your name, image URL, and caption.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ❤️ Like Posts
+
+* Like any post with a single click.
+* Double-click on the post image for a quick like experience.
+
+### 💬 Comment System
+
+* Add comments to engage with posts.
+* Delete comments whenever needed.
+
+### 🗑️ Delete Posts
+
+* Remove posts instantly with a simple click.
+
+### 💾 Persistent Storage
+
+* All posts, likes, and comments are automatically saved using Local Storage.
+* No data is lost when the page is refreshed.
+
+### 📱 Responsive Design
+
+* Fully responsive layout powered by Bootstrap.
+* Works smoothly across desktops, tablets, and mobile devices.
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology      | Purpose                              |
+| --------------- | ------------------------------------ |
+| React           | Building interactive user interfaces |
+| Vite            | Fast development and build tool      |
+| Bootstrap       | Responsive styling and layout        |
+| Bootstrap Icons | Modern icons for UI interactions     |
+
+---
+
+## 🎯 Learning Objectives
+
+This project was developed to strengthen concepts such as:
+
+* React Components
+* State Management using Hooks
+* Props
+* Event Handling
+* Conditional Rendering
+* Local Storage Integration
+* Responsive UI Design
+
+---
+
+## 📸 Project Preview
+
+Add screenshots of your application here.
+
+---
+
+## 🚀 Getting Started
+
+### Installation
+
+```bash
+git clone <your-repository-url>
+cd vibeshare
+npm install
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 📌 Future Enhancements
+
+* User Authentication
+* Real-Time Chat
+* Dark Mode
+* Profile Pages
+* Post Sharing Feature
+* Backend Database Integration
+
+---
+
+## 👨‍💻 Author
+
+**Shweta Ahirwar**
+
+Built with React, Vite, and Bootstrap.
+
+
