@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "userName": "Sarah Jenkins",
+    "profileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&h=150&q=80",
+    "caption": "Morning hike at Yosemite! The air is incredibly fresh and the view is absolutely spectacular. 🌲⛰️ #Yosemite #Nature #Outdoors",
+    "postImage": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?auto=format&fit=crop&w=800&q=80",
+    "likes": 124,
+    "isLiked": false,
+    "comments": [
+      {
+        "id": 101,
+        "userName": "David Miller",
+        "text": "Wow, stunning view Sarah! Adding this to my bucket list.",
+        "createdAt": "09:30 AM"
+      },
+      {
+        "id": 102,
+        "userName": "Emma Watson",
+        "text": "Nature is the best therapy. Enjoy the hike! 🙌",
+        "createdAt": "10:15 AM"
+      }
+    ],
+    "createdAt": "6/12/2026, 11:48:02 AM"
+  },
+  {
+    "id": 2,
+    "userName": "Liam Patterson",
+    "profileImage": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&h=150&q=80",
+    "caption": "First attempt at making homemade sourdough bread! Crispy and golden crust on the outside, soft and airy on the inside. 🍞🥖 #Baking #Sourdough #Foodie #HomeChef",
+    "postImage": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?auto=format&fit=crop&w=800&q=80",
+    "likes": 42,
+    "isLiked": true,
+    "comments": [
+      {
+        "id": 103,
+        "userName": "Chef Michael",
+        "text": "That crumb structure looks incredible! Keep it up.",
+        "createdAt": "11:45 AM"
+      }
+    ],
+    "createdAt": "6/12/2026, 9:48:02 AM"
+  },
+  {
+    "id": 3,
+    "userName": "Sophia Chen",
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
+    "caption": "Night walk in Tokyo. The neon lights, bustling streets, and energy here are magical. 🇯🇵✨ #Tokyo #Travel #NeonVibes #Japan",
+    "postImage": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=800&q=80",
+    "likes": 98,
+    "isLiked": false,
+    "comments": [],
+    "createdAt": "6/12/2026, 1:48:02 AM"
+  }
+]
